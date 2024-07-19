@@ -18,4 +18,4 @@ To run migrations type in the console:
 - python manage.py migrate
 
 Also, remember to install the dependencies that are located under the Website-Backend/backend directory using the command:
--> pip install -r requirements.txt
+- pip install -r requirements.txt
